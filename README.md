@@ -1,5 +1,5 @@
 <p align="center">
-  Hi, I'm Abdullah
+  <strong>Hi, I'm Abdullah</strong>strong>
   <br>
   A Sophomore studying Computer Science and Data Science at Luther College.
 </p>
