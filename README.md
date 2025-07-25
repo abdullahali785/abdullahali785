@@ -1,4 +1,7 @@
-# I’m Abdullah Ali, a Sophomore studying Computer Science and Data Science at Luther College.
+<p align="center">
+  <strong>I'm Abdullah Ali</strong><br>
+  A Sophomore studying Computer Science and Data Science at Luther College.
+</p>
 
 ## About Me:
 👀 I’m interested in Software Engineering, Web development, Machine Learning, and Data Analysis!
