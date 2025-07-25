@@ -1,5 +1,5 @@
 <p align="center">
-  I'm Abdullah Ali
+  Hi, I'm Abdullah Ali
   <br>
   A Sophomore studying Computer Science and Data Science at Luther College.
 </p>
