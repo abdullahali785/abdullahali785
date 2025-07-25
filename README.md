@@ -5,10 +5,10 @@
 </p>
 
 ## About Me:
-👀 I’m interested in Software Engineering, Web development, Machine Learning, and Data Analysis!
-🌱 I’m currently learning React.js!
-💞️ I’m looking to collaborate on Web Development Projects!
-🥏 Outside of tech, I love working out!
+👀 I’m interested in Software Engineering, Web development, Machine Learning, and Data Analysis!<br>
+🌱 I’m currently learning React.js!<br>
+💞️ I’m looking to collaborate on Web Development Projects!<br>
+🥏 Outside of tech, I love working out!<br>
 
 ## Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/abd785)
