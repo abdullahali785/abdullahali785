@@ -1,6 +1,8 @@
+<p align="center">
 <strong>Hi, I'm Abdullah</strong>
 <br>
 A Sophomore studying Computer Science and Data Science at Luther College.
+</p>
 
 ## About Me:
 👀 I’m interested in Software Engineering, Web development, Machine Learning, and Data Analysis!<br>
