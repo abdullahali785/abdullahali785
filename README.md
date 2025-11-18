@@ -6,7 +6,7 @@
 
 ## About Me:
 👀 I’m interested in Software Engineering, Web development, Machine Learning, and Data Analysis!<br>
-🌱 I’m currently learning React.js!<br>
+🌱 I’m currently working on my React.js Portfolio!<br>
 💞️ I’m looking to collaborate on Web Development and Software Engineering Projects!<br>
 🥏 Outside of tech, I love working out!<br>
 
