@@ -5,7 +5,7 @@
 </p>
 
 ## About Me:
-👀 I’m interested in Software Architecture and Cloud Computing<br>
+👀 I’m interested in Software Architecture, Cloud Computing, and Applied AI<br>
 🌱 I’m currently learning System Design<br>
 💞️ I’m looking to collaborate on Software Engineering Projects<br>
 🥏 Outside of tech, I love working out<br>
