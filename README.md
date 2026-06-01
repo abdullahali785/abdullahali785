@@ -6,7 +6,7 @@
 
 ## About Me:
 👀 I’m interested in Software Architecture, Cloud Computing, and AI Application<br>
-🌱 I’m currently learning System Design<br>
+🌱 I’m currently learning Software Architecture and System Design<br>
 💞️ I’m looking to collaborate on Software Engineering Projects<br>
 🥏 Outside of tech, I love working out<br>
 
