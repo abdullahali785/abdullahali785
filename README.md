@@ -6,7 +6,7 @@
 
 ## About Me:
 👀 I’m interested in Software Architecture, Cloud Computing, and Agentic AI <br>
-🌱 I’m currently learning Software Architecture and System Desig<br>
+🌱 I’m currently learning Software Architecture and AI Agents<br>
 💞️ I’m looking to collaborate on Software Engineering Projects<br>
 🥏 Outside of tech, I love working out<br>
 
