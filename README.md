@@ -5,10 +5,9 @@
 </p>
 
 ## About Me:
-👀 I’m interested in Software Architecture, Cloud Computing, and Agentic AI <br>
-🌱 I’m currently learning Software Architecture and AI Agents<br>
-💞️ I’m looking to collaborate on Software Engineering Projects<br>
-🥏 Outside of tech, I love working out<br>
+I’m interested in Software Architecture, Agentic AI, and Machine Learning <br>
+I’m currently working on an Pull Request Reviewer Agent that specializes in detecting Software Design flaws <br>
+Outside of tech, I love working out<br>
 
 ## Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/abd785)
